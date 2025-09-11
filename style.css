@@ -16,6 +16,7 @@ body {
   border-radius: 0px;
   padding: 20px;
   font-size: 150%;
+  display: flex; justify-content: center; align-items: center;
 }
 .wrapper_2 {
   display: grid;
@@ -29,7 +30,7 @@ body {
   color: #fff;
   border-radius: 0px;
   padding: 20px;
-  font-size: 150%;
+  font-size: 150%;  display: flex; justify-content: center; align-items: center;
 }
 
 .wrapper_3 {
@@ -44,7 +45,7 @@ body {
   color: #fff;
   border-radius: 0px;
   padding: 20px;
-  font-size: 150%;
+  font-size: 150%;  display: flex; justify-content: center; align-items: center;
 }
 
 
@@ -60,7 +61,7 @@ body {
   color: #fff;
   border-radius: 0px;
   padding: 50px;
-  font-size: 150%;
+  font-size: 150%; display: flex; justify-content: center; align-items: center;
 }
 
 .wrapper_5 {
@@ -75,7 +76,7 @@ body {
   color: #fff;
   border-radius: 0px;
   padding: 50px;
-  font-size: 150%;
+  font-size: 150%; display: flex; justify-content: center; align-items: center;
 }
 
 .wrapper_6 {
@@ -83,7 +84,8 @@ body {
   grid-template-columns: 470px ;
   grid-gap: 10px;
   background-color: #fff;
-  color: #444;}
+  color: #444;
+}
 
 .grid-item {
   text-align: center;}
@@ -94,5 +96,5 @@ body {
   border-radius: 0px;
   padding: 20px;
   font-size: 150%;
-  text-align: center;
+  display: flex; justify-content: center; align-items: center;
 }
